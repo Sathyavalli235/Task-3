@@ -6,4 +6,5 @@ window.addEventListener('scroll',function(){
     else{
         header.style.backgroundColor='aqua';
     }
+
 })
